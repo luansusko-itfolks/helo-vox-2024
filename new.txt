@@ -1,0 +1,28 @@
+newhelovox/
+|-- src/
+    |-- components/
+        |-- modals/
+            |-- InputLanguageModal.tsx
+            |-- OutputLanguageModal.tsx
+            |-- VoiceSelectionModal.tsx
+        |-- AudioPlayer/
+            |-- AudioPlayer.native.tsx
+            |-- AudioPlayer.web.tsx
+    |-- VoiceRecognition/
+        |-- VoiceRecognition.native.tsx
+        |-- VoiceRecognition.web.tsx
+    |-- services/
+        |-- TextToSpeechService.ts
+        |-- TranslationService.ts
+    |-- history/
+        |-- HistoryManager.ts
+    |-- config/
+        |-- settings.ts
+    |-- styles/
+        |-- ButtonStyles.ts
+    |-- App.tsx
+|-- index.web.js
+|-- app.json
+|-- package.json
+|-- webpack.config.js
+|-- ... outros arquivos e pastas do projeto ...
